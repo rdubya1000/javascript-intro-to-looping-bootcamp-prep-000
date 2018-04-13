@@ -22,11 +22,10 @@ function whileLoop(n){
 
 function doWhileLoop(array){
   function maybeTrue(){
-    
-  }
-  
-  
-  }
-
+    return array.shift()
+     }
+do {
+  console.log(array)
+}
 while (array.length > 0 && maybeTrue());  
 }
