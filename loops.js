@@ -21,7 +21,9 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
-  
+  function maybeTrue(){
+    
+  }
   
   do {array.shift()
   }
